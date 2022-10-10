@@ -1,0 +1,66 @@
+*{
+    background-color: black;
+    color: white;
+ }
+
+html, body {
+    width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: var(--primary);
+    color: var(--light);
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    line-height: 1.4;
+}
+  
+img {
+    max-width: 100%;
+}
+header {
+    display: inline-flex;
+}
+
+h1 {
+    padding-top: 60px;  
+}
+  
+.wrapper {
+    margin: 0;
+    padding: 0;
+}
+
+.rickandmorty {
+    width: 289px;
+    height: 160px
+}
+.bigmouth{width: 289px;
+    height: 160px
+
+}
+.peakyblinders{width: 289px;
+    height: 160px}
+
+.thebilliondollarcode{width: 289px;
+    height: 160px}
+
+.theitcrowd{width: 289px;
+    height: 160px}
+
+.mrrobot{width: 289px;
+        height: 160px}
+
+.thewitcher{width: 289px;
+    height: 160px}
+
+.breakingbad{width: 289px;
+    height: 160px}
+
+    .entergalactic{width: 289px;
+    height: 160px}
+
+    .lucifer{width: 289px;
+    height: 160px}
+
+ 
